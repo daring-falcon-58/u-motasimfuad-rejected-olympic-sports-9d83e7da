@@ -1,5 +1,9 @@
 # Rejected Olympic Sports — make.fun entry
 
+[![make.fun · u-motasimfuad-rejected-olympic-sports-9d83e7da](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![rank](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/daring-falcon-58/u-motasimfuad-rejected-olympic-sports-9d83e7da/rank.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![reward](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/daring-falcon-58/u-motasimfuad-rejected-olympic-sports-9d83e7da/reward.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+
 ## Methodology (read first)
 
 **Winner:** "Competitive Flat-Pack Assembly: athletes build a wardrobe with no
